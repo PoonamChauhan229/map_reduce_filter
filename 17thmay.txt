@@ -1,0 +1,53 @@
+
+1.Sachin:B35-English--Constructor and this keyword.
+Task-6 and 7
+Day 10-Session covered
+2.Priyanka:No doubts
+3.Abhisekh:Map Reduce Filter
+4:Raghvan:No doubts
+
+
+
+
+Array Methods
+Map
+-transform an Array
+-function as paramter
+-work on each and every element
+-return an new Array
+
+var arr=[1,2,3,4]
+o/p-[2,4,6,8]
+perform opertation
+1*2
+2*2
+3*2
+4*2
+
+arr.map()
+for loop
+
+Filter
+-function as an parameter
+-condition /eliminate somting an give output
+-condition is satisified-get the o/p
+-condition not satisified -ignored
+
+arr.filter()
+
+
+var arr=[1,2,3,4]
+
+odd /even
+for loop-if else -->output
+
+
+Reduce
+-function as an parameter
+accumulator=>initial value-1st element of array||given value
+value=>element
+
+arr.reduce()
+
+for loop
+sum;8-9 steps
